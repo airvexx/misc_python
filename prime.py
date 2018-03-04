@@ -2,7 +2,7 @@
 
 # change the values of lower and upper for a different result
 lower = 3
-upper = 30000
+upper = 12300
 
 # uncomment the following lines to take input from the user
 #lower = int(input("Enter lower range: "))
