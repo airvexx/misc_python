@@ -2,13 +2,13 @@
 
 # change the values of lower and upper for a different result
 lower = 3
-upper = 12300
+upper = 9900
 
 # uncomment the following lines to take input from the user
 #lower = int(input("Enter lower range: "))
 #upper = int(input("Enter upper range: "))
 
-print("Prime numbers between",lower,"and",upper,"are:")
+print("The Prime numbers between",lower,"and",upper,"are:")
 
 for num in range(lower,upper + 1):
    # prime numbers are greater than 1
